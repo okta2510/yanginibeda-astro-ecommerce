@@ -64,9 +64,9 @@ export default function ProductOverview({
             </>
             }
             
-            {(sizes.size != 0) && 
+            {/* {(sizes.size != 0) && 
               <ProductSizes sizes={sizes}/>
-            }
+            } */}
             <button className="btn btn-dark btn-lg" type="submit">Add to cart</button>
           </form>
         </div>
