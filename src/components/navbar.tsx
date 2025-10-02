@@ -14,7 +14,17 @@ const Navbar = () => {
           <ul className="navbar-nav ms-auto">
             <li className="nav-item">
               <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="/">
-                All Components
+                About Us
+              </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="/">
+                Produk
+              </a>
+            </li>
+            <li className="nav-item">
+              <a className="nav-link text-dark font-weight-bold d-flex align-items-center me-2 " aria-current="page" href="/">
+                Portfolio
               </a>
             </li>
             <li className="nav-item dropdown">
