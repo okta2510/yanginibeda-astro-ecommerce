@@ -75,7 +75,7 @@ const ComplexNavbarDark = () => {
                   <a className="dropdown-item border-radius-md" href="#">
                     <div className="py-1 d-flex">
                       <div className="my-auto">
-                        <img src={`${import.meta.env.BASE_URL}logo/logo-spotify.svg`} className="avatar avatar-sm bg-gradient-dark  me-3 " alt="logo spotify" />
+                        <img src={`/logo/logo-spotify.svg`} className="avatar avatar-sm bg-gradient-dark  me-3 " alt="logo spotify" />
                       </div>
                       <div className="d-flex flex-column justify-content-center">
                         <h6 className="mb-1 text-sm font-weight-normal">
